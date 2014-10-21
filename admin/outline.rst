@@ -51,9 +51,9 @@ Functii administrative
     * Actiune: Sterge grup
       * Nota: Ce setari pot avea grupurile, in afara de admin?
 
-  * Topics
+  * Tipcuri
     * `http://your_nodebb_domain.com/admin/topics`
-    * List of Topics
+    * Lista de topicuri
       * Name [link to topic], Posted When and By, Number posts (Topic+Replies), Thread Actions: Pin(pushpin), Lock(lock), Delete(trashcan)
     * Action: Load More Topics
 
