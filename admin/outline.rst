@@ -1,9 +1,9 @@
-Administrative Functions
+Functii administrative
 ========================
 
-.. note::
+.. nota::
 
-    These docs are out of date. If you are interested in updating these (preferably with screenshots) let us know on the `community forum <https://community.nodebb.org>`_ because we are planning on a design overhaul of the ACP soon.
+    Aceste documente nu sunt la zi. Daca sunteti interesati sa updatati documentatia (preferabil cu screenshot-uri) ne puteti spune pe `forumul comunitatii <https://community.nodebb.org>`_ deoarece planuim refacerea design-ului ACP-ului in curand.
 
 
 **To view the admin panel** (if you are an admin): `http://your_nodebb_domain.com/admin`
@@ -22,7 +22,7 @@ Administrative Functions
   * Home
     * `http://your_nodebb_domain.com/admin/index`
     * Links all go to nodebb.com homepage
-      * NOTE: should all the links go to same place? 
+      * NOTE: should all the links go to same place?
     * Message reminder of what version this is and to check for updates (See :doc:`Upgrading NodeBB <../upgrading/index>`)
       * NOTE: would a link to where the latest stable version is help?
     * Active Users
@@ -50,7 +50,7 @@ Administrative Functions
       * Name, Desc, Icon
     * Action: Delete Group
       * NOTE: What exactly can Groups be set up to do, besides Admin?
-  
+
   * Topics
     * `http://your_nodebb_domain.com/admin/topics`
     * List of Topics
@@ -58,14 +58,14 @@ Administrative Functions
     * Action: Load More Topics
 
     * Topic [from List of Topics link]
-    * Normal View of Topic+Reply Posts but with: 
+    * Normal View of Topic+Reply Posts but with:
       * Link, Edit, Delete Actions all enabled for each Post
       * Thread Tools:
         * Pin, Lock, Move, Delete
 
   * Themes (See :doc:`Theming NodeBB <../themes/create>`)
     * `http://your_nodebb_domain.com/admin/themes`
-    * List of (Custom | Bootswatch) Themes 
+    * List of (Custom | Bootswatch) Themes
       * Actions: Use, Preview
     * Action: Revert (to base)
 
@@ -79,10 +79,10 @@ Administrative Functions
     * `http://your_nodebb_domain.com/admin/settings`
 
     * General Settings
-      * (textbox) Site Title 	
-      * (textbox) Site Description 
-      * (textbox) Site Keywords 
-      * (textbox) Imgur Client ID 
+      * (textbox) Site Title
+      * (textbox) Site Description
+      * (textbox) Site Keywords
+      * (textbox) Imgur Client ID
         * NOTE: How does this function?
       * (textbox) Maximum User Image Size
 
@@ -90,7 +90,7 @@ Administrative Functions
       * (textbox) Manage Thread
       * (textbox) Moderate Users
       * (textbox) Create Pinned Topics
-	
+
     * Email Settings
       * (textbox) Email Address (The following email address refers to the email that the recipient will see in the "From" and "Reply To" fields.)
       * (textbox) SMTP Server Host (Default: 127.0.0.1)
@@ -105,7 +105,7 @@ Administrative Functions
       * (textbox) Post Delay
       * (textbox) Minimum Title Length
       * (textbox) Minimum Post Length
-      * (checkbox) Use Outgoing Links Warning Page 
+      * (checkbox) Use Outgoing Links Warning Page
 
     * Action: Save
 
@@ -115,8 +115,8 @@ Administrative Functions
 
   * Logger
     * `http://your_nodebb_domain.com/admin/logger`
-    * (checkbox) Enable HTTP logging  
-    * (checkbox) Enable socket.io event logging  
+    * (checkbox) Enable HTTP logging
+    * (checkbox) Enable socket.io event logging
     * (textbox) Path to log file
 
   * MOTD (Message of the Day)
