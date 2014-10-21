@@ -65,9 +65,9 @@ Functii administrative
 
   * Teme (See :doc:`Schimbarea temei NodeBB <../themes/create>`)
     * `http://your_nodebb_domain.com/admin/themes`
-    * List of (Custom | Bootswatch) Themes
-      * Actions: Use, Preview
-    * Action: Revert (to base)
+    * Lista de (Custom | Bootswatch) teme
+      * Actiuni: Foloseste, Vizualizeaza
+    * Actiune: Restaureaza (la implicit)
 
   * Plugins (See :doc:`Writing Plugins for NodeBB <../plugins/create>`)
     * `http://your_nodebb_domain.com/admin/plugins`
