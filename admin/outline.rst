@@ -22,7 +22,7 @@ Functii administrative
   * Acasa
     * `http://your_nodebb_domain.com/admin/index`
     * Toate linkurile trimit la pagina principala nodebb.com
-      * NOTE: should all the links go to same place?
+      * Nota: Ar trebui toate linkurile sa trimita in acelasi loc?
     * Message reminder of what version this is and to check for updates (See :doc:`Upgrading NodeBB <../upgrading/index>`)
       * NOTE: would a link to where the latest stable version is help?
     * Active Users
