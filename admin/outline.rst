@@ -23,7 +23,7 @@ Functii administrative
     * `http://your_nodebb_domain.com/admin/index`
     * Toate linkurile trimit la pagina principala nodebb.com
       * Nota: Ar trebui toate linkurile sa trimita in acelasi loc?
-    * Message reminder of what version this is and to check for updates (See :doc:`Upgrading NodeBB <../upgrading/index>`)
+    * Trebuie sa informam despre versiune si cum sa se verifice actualizarile (Vezi :doc:`Actualizare NodeBB <../upgrading/index>`)
       * NOTE: would a link to where the latest stable version is help?
     * Active Users
       * lists number users per page-path (?)
