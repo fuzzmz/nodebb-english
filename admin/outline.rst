@@ -37,10 +37,10 @@ Functii administrative
       * Icoana, Nume, Desc, Actiune: Dezableaza
     * Actiuni: Salveaza, Adauga Noua
 
-  * Users
+  * Utilizatori
     * `http://your_nodebb_domain.com/admin/users`
-    * Filters: Latest Users, Top Posters, Most Reputation, Action: Search
-    * List of Users:
+    * Filters: Latest utilizatori, Top Posters, Most Reputation, Action: Search
+    * List of utilizatori:
       * Icon, Link: Name, Reputation(star), Number Posts(pencil), Action: Ban
     * Action: Load More
 
@@ -88,7 +88,7 @@ Functii administrative
 
     * Privilege Thresholds (Use privilege thresholds to manage how much reputation a user must gain to receive moderator access.)
       * (textbox) Manage Thread
-      * (textbox) Moderate Users
+      * (textbox) Moderate utilizatori
       * (textbox) Create Pinned Topics
 
     * Email Settings
