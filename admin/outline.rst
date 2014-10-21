@@ -40,9 +40,9 @@ Functii administrative
   * Utilizatori
     * `http://your_nodebb_domain.com/admin/users`
     * Filters: Latest utilizatori, Contributori Principali, Reputatia Maxima, Actiune: Cauta
-    * List of utilizatori:
-      * Icon, Link: Name, Reputation(star), Number Posts(pencil), Action: Ban
-    * Action: Load More
+    * Lista utilizatori:
+      * Icoana, Link: Nume, Reputatie(stea), Numar posturi(creion), Actiune: Interzice acces
+    * Actiune: Incarca mai mult
 
   * Groups
     * `http://your_nodebb_domain.com/admin/groups`
