@@ -63,7 +63,7 @@ Functii administrative
       * Thread Tools:
         * Pin, Lock, Move, Delete
 
-  * Themes (See :doc:`Theming NodeBB <../themes/create>`)
+  * Teme (See :doc:`Schimbarea temei NodeBB <../themes/create>`)
     * `http://your_nodebb_domain.com/admin/themes`
     * List of (Custom | Bootswatch) Themes
       * Actions: Use, Preview
