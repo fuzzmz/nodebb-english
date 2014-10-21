@@ -44,12 +44,12 @@ Functii administrative
       * Icoana, Link: Nume, Reputatie(stea), Numar posturi(creion), Actiune: Interzice acces
     * Actiune: Incarca mai mult
 
-  * Groups
+  * Grupuri
     * `http://your_nodebb_domain.com/admin/groups`
-     * List of Groups
-      * Name, Desc, Icon
-    * Action: Delete Group
-      * NOTE: What exactly can Groups be set up to do, besides Admin?
+     * Lista de grupuri
+      * Nume, Desc, Icoana
+    * Actiune: Sterge grup
+      * Nota: Ce setari pot avea grupurile, in afara de admin?
 
   * Topics
     * `http://your_nodebb_domain.com/admin/topics`
