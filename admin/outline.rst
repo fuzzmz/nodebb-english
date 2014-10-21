@@ -54,7 +54,7 @@ Functii administrative
   * Tipcuri
     * `http://your_nodebb_domain.com/admin/topics`
     * Lista de topicuri
-      * Name [link to topic], Posted When and By, Number posts (Topic+Replies), Thread Actions: Pin(pushpin), Lock(lock), Delete(trashcan)
+      * Nume [link catre topic], Postat cand si de cine, Numar posturi (Topicuri+Raspunsuri), Actiuni topi: Pin(pushpin), Lock(lock), Delete(trashcan)
     * Action: Load More Topics
 
     * Topic [from List of Topics link]
