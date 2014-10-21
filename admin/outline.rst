@@ -8,9 +8,9 @@ Functii administrative
 
 **Pentru a accesa zona administrativa** (daca sunteti admin): `http://your_nodebb_domain.com/admin`
 
-**Meniul Principal** (all can be easily reached by other means)
-  * NodeBB ACP (Administrator Control Panel: this view)
-    * `http://your_nodebb_domain.com/admin/index` (see Home below)
+**Meniul Principal** (toate pot fi accesate usor prin alte mijloace)
+  * NodeBB ACP (Zona de control administrativ: pagina aceasta)
+    * `http://your_nodebb_domain.com/admin/index` (vezi Acasa mai jos)
   * Forum
     * `http://your_nodebb_domain.com` (your main forum)
   * Home
