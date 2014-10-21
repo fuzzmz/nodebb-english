@@ -18,10 +18,10 @@ Functii administrative
   * Setari
     * `http://your_nodebb_domain.com/admin/settings` (vezi Setari mai jos)
 
-**Side Menu: NodeBB**
-  * Home
+**Meniu lateral: NodeBB**
+  * Acasa
     * `http://your_nodebb_domain.com/admin/index`
-    * Links all go to nodebb.com homepage
+    * Toate linkurile trimit la pagina principala nodebb.com
       * NOTE: should all the links go to same place?
     * Message reminder of what version this is and to check for updates (See :doc:`Upgrading NodeBB <../upgrading/index>`)
       * NOTE: would a link to where the latest stable version is help?
