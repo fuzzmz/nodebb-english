@@ -75,16 +75,16 @@ Functii administrative
       * Actiune: De/activeaza
     * Informatii despre scrierea pluginilor
 
-  * Settings
+  * Setari
     * `http://your_nodebb_domain.com/admin/settings`
 
-    * General Settings
-      * (textbox) Site Title
-      * (textbox) Site Description
-      * (textbox) Site Keywords
+    * Setari Generale
+      * (textbox) Ttile Site
+      * (textbox) Descriere Site
+      * (textbox) Cuveinte cheie Site
       * (textbox) Imgur Client ID
-        * NOTE: How does this function?
-      * (textbox) Maximum User Image Size
+        * Nota: Cum functioneaza?
+      * (textbox) Dimensiune maxima a imaginii utilizatorului
 
     * Privilege Thresholds (Use privilege thresholds to manage how much reputation a user must gain to receive moderator access.)
       * (textbox) Manage Thread
