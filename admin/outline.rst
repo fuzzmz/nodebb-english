@@ -12,7 +12,7 @@ Functii administrative
   * NodeBB ACP (Zona de control administrativ: pagina aceasta)
     * `http://your_nodebb_domain.com/admin/index` (vezi Acasa mai jos)
   * Forum
-    * `http://your_nodebb_domain.com` (your main forum)
+    * `http://your_nodebb_domain.com` (forumul principal)
   * Home
     * `http://your_nodebb_domain.com/admin/index` (see Home below)
   * Settings
