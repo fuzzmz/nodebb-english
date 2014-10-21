@@ -6,9 +6,9 @@ Functii administrative
     Aceste documente nu sunt la zi. Daca sunteti interesati sa updatati documentatia (preferabil cu screenshot-uri) ne puteti spune pe `forumul comunitatii <https://community.nodebb.org>`_ deoarece planuim refacerea design-ului ACP-ului in curand.
 
 
-**To view the admin panel** (if you are an admin): `http://your_nodebb_domain.com/admin`
+**Pentru a accesa zona administrativa** (daca sunteti admin): `http://your_nodebb_domain.com/admin`
 
-**Top Menu** (all can be easily reached by other means)
+**Meniul Principal** (all can be easily reached by other means)
   * NodeBB ACP (Administrator Control Panel: this view)
     * `http://your_nodebb_domain.com/admin/index` (see Home below)
   * Forum
