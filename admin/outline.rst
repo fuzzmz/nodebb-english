@@ -39,7 +39,7 @@ Functii administrative
 
   * Utilizatori
     * `http://your_nodebb_domain.com/admin/users`
-    * Filters: Latest utilizatori, Top Posters, Most Reputation, Action: Search
+    * Filters: Latest utilizatori, Contributori Principali, Reputatia Maxima, Actiune: Cauta
     * List of utilizatori:
       * Icon, Link: Name, Reputation(star), Number Posts(pencil), Action: Ban
     * Action: Load More
