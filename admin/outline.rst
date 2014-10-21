@@ -71,9 +71,9 @@ Functii administrative
 
   * Plugini (See :doc:`Scrie Plugini for NodeBB <../plugins/create>`)
     * `http://your_nodebb_domain.com/admin/plugins`
-    * List of Plugins
-      * Action: De/activate
-    * Info on making plugins
+    * Lista de plugini
+      * Actiune: De/activeaza
+    * Informatii despre scrierea pluginilor
 
   * Settings
     * `http://your_nodebb_domain.com/admin/settings`
