@@ -30,12 +30,12 @@ Functii administrative
       * Nota: nu este foarte clar ce inseamna calea sau cum sa vizitezi calea
 
 
-  * Categories
+  * Categorii
     * `http://your_nodebb_domain.com/admin/categories`
-    * Filters: Active, Disabled, Unit Tests
-    * List of Categories:
-      * Icon, Name, Desc, Action: Disable
-    * Actions: Save, Add New
+    * Filtre: Activ, Dezablat, Unit Tests
+    * Lista de categorii:
+      * Icoana, Nume, Desc, Actiune: Dezableaza
+    * Actiuni: Salveaza, Adauga Noua
 
   * Users
     * `http://your_nodebb_domain.com/admin/users`
