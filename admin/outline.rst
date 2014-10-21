@@ -69,7 +69,7 @@ Functii administrative
       * Actiuni: Foloseste, Vizualizeaza
     * Actiune: Restaureaza (la implicit)
 
-  * Plugins (See :doc:`Writing Plugins for NodeBB <../plugins/create>`)
+  * Plugini (See :doc:`Scrie Plugini for NodeBB <../plugins/create>`)
     * `http://your_nodebb_domain.com/admin/plugins`
     * List of Plugins
       * Action: De/activate
