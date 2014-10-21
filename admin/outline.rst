@@ -13,10 +13,10 @@ Functii administrative
     * `http://your_nodebb_domain.com/admin/index` (vezi Acasa mai jos)
   * Forum
     * `http://your_nodebb_domain.com` (forumul principal)
-  * Home
-    * `http://your_nodebb_domain.com/admin/index` (see Home below)
-  * Settings
-    * `http://your_nodebb_domain.com/admin/settings` (see Settings below)
+  * Acasa
+    * `http://your_nodebb_domain.com/admin/index` (vezi Acasa mai jos)
+  * Setari
+    * `http://your_nodebb_domain.com/admin/settings` (vezi Setari mai jos)
 
 **Side Menu: NodeBB**
   * Home
